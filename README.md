@@ -1,13 +1,13 @@
 Laboratory 3: Advanced Scripting in ServiceNow
 
 1. GlideSystem
-  /na. Lab 5.1 Set the CAB Date
+  a. Lab 5.1 Set the CAB Date
 
 2. GlideRecord
-  /na. Lab 6.1.1 Two GlideRecord Queries
+  a. Lab 6.1.1 Two GlideRecord Queries
 
-  /nb. Lab 6.1.3 addEncodedQuery()
-      /nTIP: Rather than renaming your Lab 6.1.1 Business Rule, you could change the name then go to the Form 
+  b. Lab 6.1.3 addEncodedQuery()
+      TIP: Rather than renaming your Lab 6.1.1 Business Rule, you could change the name then go to the Form 
       Context Menu > Insert and Stay to create a copy of your business rule instead.
 
 3. Script Includes
